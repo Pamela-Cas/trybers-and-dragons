@@ -7,7 +7,8 @@ class Mage extends Archetype {
 
   constructor(name: string) {
     super(name);
-    this._energyType = 'mana';      
+    this._energyType = 'mana';
+    Mage._instances += 1; 
   }
 }
 

@@ -12,3 +12,7 @@ interface Fighter {
 }
 
 export default Fighter;
+
+// pesquisa interface e propriedades opcionais
+// https://bognarjunior.wordpress.com/tag/typescript/
+// https://www.youtube.com/watch?v=TYLvtyKNMao

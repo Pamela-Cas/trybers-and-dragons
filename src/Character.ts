@@ -6,7 +6,8 @@ class Character implements Fighter {
   private _archetype: Archetype;
   private _maxLifePoints: MaxLifePoints;
   private _lifePoints: LifePoints;
-  
+  private _strength: Strength;
+
 }
 
 export default Character;

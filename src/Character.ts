@@ -1,3 +1,4 @@
+import Energy from './Energy';
 import Fighter from './Fighter/Fighter';
 import Race from './Races';
 
@@ -8,7 +9,9 @@ class Character implements Fighter {
   private _lifePoints: LifePoints;
   private _strength: Strength;
   private _defense: Defense;
-  private _dexterity: Dexterity
+  private _dexterity: Dexterity;
+  private _energy: Energy;
+  
 }
 
 export default Character;

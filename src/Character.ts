@@ -32,3 +32,5 @@ class Character implements Fighter {
 }
 
 export default Character;
+
+// implementado constructor com auxilio da mentoria!

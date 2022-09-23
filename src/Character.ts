@@ -8,6 +8,7 @@ class Character implements Fighter {
   private _lifePoints: LifePoints;
   private _strength: Strength;
   private _defense: Defense;
+  private _dexterity: Dexterity
 }
 
 export default Character;
